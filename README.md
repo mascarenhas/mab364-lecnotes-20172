@@ -46,7 +46,7 @@ Escreva a função que acha as variáveis livres `fv(e: CL): Set[String]`, a
 função de substituição `subst(oque: String, peloque: CL, onde: CL)`, 
 o interpretador big-step `eval(e: CL): Abs` e o interpretador small-step `step(e: CL): CL`.
 
-### Questão 4
+### Questão 3
 
 Escreva as funções `eval_cbn` e `step_cbn` para o interpretador call-by-name do 
 cálculo lambda.
